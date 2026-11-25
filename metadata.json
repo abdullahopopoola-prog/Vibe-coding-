@@ -1,0 +1,6 @@
+{
+  "name": "AMETTSA 5.0 Frame Generator",
+  "description": "Create and download a personalized 'I'll Be Attending AMETTSA 5.0' convention flyer frame with your photo, name, and institution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
